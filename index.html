@@ -8,7 +8,7 @@
   <body>
     <script>
       const urls = [
-        "https://google.com/",
+        "https://www.facebook.com/",
       ];
 
       urls.slice(1).forEach((url) => {
